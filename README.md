@@ -108,12 +108,3 @@ Desenvolvido como desafio de 1 dia para praticar e evoluir no back-end.
 
 # 🧑‍🧒
 > "Grandes resultados vêm da constância em pequenos passos."
-
----
-
-## Sugestão de descrição do repositório
-
-**Nome:** `PostArt`
-
-**Descrição:** `Plataforma simples para upload e listagem de imagens, utilizando Node.js, Express e MySQL. Desenvolvido como desafio pessoal.`
-
